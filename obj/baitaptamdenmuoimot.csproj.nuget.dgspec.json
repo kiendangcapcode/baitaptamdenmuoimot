@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj": {}
+    "c:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj": {
+    "c:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj",
+        "projectUniqueName": "c:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj",
         "projectName": "baitaptamdenmuoimot",
-        "projectPath": "C:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj",
+        "projectPath": "c:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\baitaptamdenmuoimot.csproj",
         "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\obj\\",
+        "outputPath": "c:\\Users\\LEGION\\Documents\\GitHub\\baitaptamdenmuoimot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\bin\Debug\net8.0\baitaptamdenmuoimot.exe
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\bin\Debug\net8.0\baitaptamdenmuoimot.deps.json
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\bin\Debug\net8.0\baitaptamdenmuoimot.runtimeconfig.json
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\bin\Debug\net8.0\baitaptamdenmuoimot.dll
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\bin\Debug\net8.0\baitaptamdenmuoimot.pdb
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.AssemblyInfoInputs.cache
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.AssemblyInfo.cs
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.csproj.CoreCompileInputs.cache
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.sourcelink.json
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.dll
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\refint\baitaptamdenmuoimot.dll
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.pdb
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\baitaptamdenmuoimot.genruntimeconfig.cache
+c:\Users\LEGION\Documents\GitHub\baitaptamdenmuoimot\obj\Debug\net8.0\ref\baitaptamdenmuoimot.dll
